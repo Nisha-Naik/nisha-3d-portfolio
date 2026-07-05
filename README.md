@@ -92,31 +92,35 @@ Every interaction, animation, and transition has been carefully crafted to refle
 
 ### 🏠 Home
 
-![Home](./screenshots/home.png)
+<img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/f24e742d-941d-416d-b8d8-e366788c8ab0" />
+
 
 ---
 
 ### 👩‍💻 About
 
-![About](./screenshots/about.png)
+<img width="1891" height="963" alt="image" src="https://github.com/user-attachments/assets/a7788c33-d324-475a-a54d-e3a769ea58ae" />
+
 
 ---
 
 ### 💻 Skills
 
-![Skills](./screenshots/skills.png)
+<img width="1901" height="962" alt="image" src="https://github.com/user-attachments/assets/6c96940a-cbb7-4677-8893-619524d4f0e9" />
 
 ---
 
 ### 🚀 Projects
 
-![Projects](./screenshots/projects.png)
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/6dc588cc-498a-4cc7-9d5f-5f5457539812" />
+
 
 ---
 
 ### 📞 Contact
 
-![Contact](./screenshots/contact.png)
+<img width="1901" height="976" alt="image" src="https://github.com/user-attachments/assets/a591d13b-89da-44f9-9bf3-00c19663ca8e" />
+
 
 ---
 
